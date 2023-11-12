@@ -4,4 +4,6 @@
 
 ## 目录
 
-[仓库（repository）](https://wuyuncheng-26.github.io/ghhelper/repository.md)
+[仓库（repository）](https://wuyuncheng-26.github.io/ghhelper/repository.html)
+
+[SSH](https://wuyuncheng-26.github.io/ghhelper/ssh.html)
